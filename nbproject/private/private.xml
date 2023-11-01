@@ -4,17 +4,14 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/Code/Javanangcao/shopping/web/views/home.jsp</file>
-            <file>file:/D:/Code/Javanangcao/shopping/web/WEB-INF/web.xml</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/utils/Constants.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/driver/MySQLDriver.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/dao/Database.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/model/Product.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/impl/CategoryImpl.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/dao/CategoryDao.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/dao/ProductDao.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/impl/ProductImpl.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/model/Category.java</file>
-            <file>file:/D:/Code/Javanangcao/shopping/web/index.html</file>
+            <file>file:/D:/Code/Javanangcao/shopping/web/inc/jumbotron.jsp</file>
+            <file>file:/D:/Code/Javanangcao/shopping/web/inc/footer.jsp</file>
+            <file>file:/D:/Code/Javanangcao/shopping/web/inc/navbar.jsp</file>
+            <file>file:/D:/Code/Javanangcao/shopping/web/inc/header.jsp</file>
+            <file>file:/D:/Code/Javanangcao/shopping/src/java/nvson/data/web/LoginServlet.java</file>
+            <file>file:/D:/Code/Javanangcao/shopping/web/inc/body.jsp</file>
+            <file>file:/D:/Code/Javanangcao/shopping/web/views/login.jsp</file>
+            <file>file:/D:/Code/Javanangcao/shopping/web/inc/_login.jsp</file>
         </group>
     </open-files>
 </project-private>
